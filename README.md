@@ -22,4 +22,12 @@ Using YARN:
 
 ## Usage
 
-To edit the product list you'll need to edit the ```ìndex.js``` file and for each product link that will be monitored you 'll need to call the function ```getProducts```
+To edit the product list you'll need to edit the ```ìndex.js``` file and for each product link that will be monitored you 'll need to call the function ```getProducts```.
+
+Finally just execute the command the start command to initiate the monitor:
+
+```yarn start````
+
+or
+
+```npm run start
