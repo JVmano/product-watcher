@@ -1,0 +1,27 @@
+{
+  "name": "product-watcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JVmano/product-watcher.git",
+  "author": "JVmano <jdefreitasmelo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "node-html-parser": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.0"
+  }
+}
