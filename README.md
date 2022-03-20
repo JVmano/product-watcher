@@ -31,3 +31,10 @@ Finally just execute the command the start command to initiate the monitor:
 or
 
 ```npm run start```
+
+## Contributing
+
+1. Fork the repository
+2. Create a new branch like feat/feature_name
+3. Execute a push in the branch
+4. Create a pull request
