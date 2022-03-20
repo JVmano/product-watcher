@@ -26,7 +26,7 @@ To edit the product list you'll need to edit the ```ìndex.js``` file and for ea
 
 Finally just execute the command the start command to initiate the monitor:
 
-```yarn start````
+```yarn start```
 
 or
 
