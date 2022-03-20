@@ -30,4 +30,4 @@ Finally just execute the command the start command to initiate the monitor:
 
 or
 
-```npm run start
+```npm run start```
